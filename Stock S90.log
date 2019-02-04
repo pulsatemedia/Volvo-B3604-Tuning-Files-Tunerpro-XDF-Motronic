@@ -1,0 +1,6 @@
+Edit Log for Stock S90.BIN created by TunerPro.
+**************************************************************************
+02/04/2019 13:11:21  Scalar:    RPM Limit (Soft) changed from 6240.00  (0xD0) to 3510.00  (0x75).
+02/04/2019 13:11:31  Scalar:    RPM Limit (Hard) changed from 6240.00  (0xD0) to 3990.00  (0x85).
+02/04/2019 13:11:39  Scalar:    RPM Limit (Hard) 2  changed from 6240.00  (0xD0) to 3990.00  (0x85).
+02/04/2019 13:11:51  Scalar:    RPM Limit (Soft) 2 changed from 6240.00  (0xD0) to 3990.00  (0x85).
